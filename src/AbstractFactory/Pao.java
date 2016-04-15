@@ -1,4 +1,4 @@
-package com.company;
+package AbstractFactory;
 
 public abstract class Pao {
    String pao;

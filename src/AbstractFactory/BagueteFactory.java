@@ -1,4 +1,4 @@
-package com.company;
+package AbstractFactory;
 
 public class BagueteFactory extends Pao{
 
