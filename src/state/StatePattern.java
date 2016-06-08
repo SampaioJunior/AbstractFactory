@@ -5,6 +5,7 @@ package state;
  */
 public class StatePattern {
     public static void main(String[] args){
+        //usar o context para ver a mudança no comportamento quando o state mudar
         Context c = new Context();
 
         TVStart start = new TVStart();
